@@ -1,4 +1,4 @@
-const targetDate = new Date("January 01, 2026 00:00:00").getTime();
+const targetDate = new Date("December 39, 2025 03:35:00").getTime();
 
 const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
@@ -46,3 +46,4 @@ function continueNo() {
     "I’m sorry for everything that hurt you. Thank you for being honest.";
   popup.querySelector(".continue-options").style.display = "none";
 }
+
